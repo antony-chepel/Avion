@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310765487641",
+    "project_id": "mesmerising-kings",
+    "storage_bucket": "mesmerising-kings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310765487641:android:2e19ab154cd0385b654c88",
+        "android_client_info": {
+          "package_name": "com.tocaboca.tocalifeworlda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310765487641-1p0a25cugp4gt9roi6iiufd8p62eouj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLUzgbe6uV_qw3tkWfBD7v84L39NqrKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310765487641-1p0a25cugp4gt9roi6iiufd8p62eouj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

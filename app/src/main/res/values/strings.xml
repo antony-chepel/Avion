@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Avion</string>
+    <string name="cannot_open_file_chooser_txt">Can not open file chooser</string>
+    <string name="camera_permission_granted_txt">Permission granted</string>
+    <string name="camera_permission_denied_txt">Permission denied</string>
+    <string name="facebook_app_id">3336294379958035</string>
+    <string name="fb_login_protocol_scheme">fb3336294379958035</string>
+    <string name="facebook_client_token">656548a64a50380805c996d0299a40c2</string>
+
+
+</resources>
